@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\RobotikGezgin.Service.deps.json
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\RobotikGezgin.Service.dll
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\ref\RobotikGezgin.Service.dll
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\RobotikGezgin.Service.pdb
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\RobotikGezgin.Entity.dll
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\bin\Debug\net6.0\RobotikGezgin.Entity.pdb
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.AssemblyInfo.cs
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.csproj.CopyComplete
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.dll
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\ref\RobotikGezgin.Service.dll
+C:\Users\burak\source\repos\RobotikGezgin\RobotikGezgin.Service\obj\Debug\net6.0\RobotikGezgin.Service.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ccc33e4-92a7-4bb4-b0e3-37ad812f9ab3": {
+      "ProjectGuid": "5ccc33e4-92a7-4bb4-b0e3-37ad812f9ab3",
+      "DisplayName": "RobotikGezgin",
+      "ColorIndex": 0
+    },
+    "657729d5-b97b-45d0-aede-9992f4f9b46e": {
+      "ProjectGuid": "657729d5-b97b-45d0-aede-9992f4f9b46e",
+      "DisplayName": "RobotikGezgin.Entity",
+      "ColorIndex": 1
+    },
+    "5718946e-7127-4559-94f5-f3d89dfc101e": {
+      "ProjectGuid": "5718946e-7127-4559-94f5-f3d89dfc101e",
+      "DisplayName": "RobotikGezgin.Service",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
