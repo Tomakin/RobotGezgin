@@ -74,10 +74,14 @@ namespace RobotikGezgin.Entity
             }
         }
 
-
         public void WriteStatus()
         {
             Console.WriteLine($"{XCoordination} {YCoordination} {Direction}");
+        }
+
+        public bool ValidateInfos()
+        {
+            return this != null;    
         }
     }
 }

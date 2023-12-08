@@ -13,7 +13,7 @@ namespace RobotikGezgin.Service
         public Surface CreateSurface(string infos)
         {
             var infoParts = infos.Split(' ');
-            if (int.TryParse(infoParts[0], out int xCoordination) &&
+            if (infoParts.Count() == 2 && int.TryParse(infoParts[0], out int xCoordination) &&
                 int.TryParse(infoParts[1], out int yCoordination))
             {
                 return new Surface(xCoordination, yCoordination);
@@ -24,7 +24,7 @@ namespace RobotikGezgin.Service
         public Robot CreateRobot(string infos, Surface surface)
         {
             var infoParts = infos.Split(' ');
-            if (int.TryParse(infoParts[0], out int xCoordination) &&
+            if (infoParts.Count() == 3 && int.TryParse(infoParts[0], out int xCoordination) &&
                 int.TryParse(infoParts[1], out int yCoordination) &&
                 char.TryParse(infoParts[2], out char direction))
             {

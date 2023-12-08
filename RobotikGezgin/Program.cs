@@ -9,10 +9,26 @@ Console.WriteLine("Yüzey bilgilerini girin");
 string? surfaceInfos = Console.ReadLine();
 Surface surface = service.CreateSurface(surfaceInfos);
 
+// Validate surface
+while (surface == null || !surface.ValidateInfos())
+{
+    Console.WriteLine("Alan bilgileri doğru değil.");
+    surfaceInfos = Console.ReadLine();
+    surface = service.CreateSurface(surfaceInfos);
+}
+
 // Get first robots infos
 Console.WriteLine("İlk robotun bilgilerini giriniz.");
 string? firstRobotInfos = Console.ReadLine();
 Robot firstRobot = service.CreateRobot(firstRobotInfos, surface);
+
+// Validate Robot
+while (!firstRobot.ValidateInfos())
+{
+    Console.WriteLine("Robot bilgileri hatalı. LÜtfen tekrar giriniz.");
+    firstRobotInfos = Console.ReadLine();
+    firstRobot = service.CreateRobot(firstRobotInfos, surface);
+}
 
 // Move/Turn first robot
 Console.WriteLine("İlk robotun hareketini giriniz.");

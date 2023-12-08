@@ -21,5 +21,10 @@ namespace RobotikGezgin.Entity
         {
 
         }
+
+        public bool ValidateInfos()
+        {
+            return this != null;
+        }
     }
 }
